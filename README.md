@@ -1,7 +1,7 @@
 # Solar Rooftop Detection from Publicly Available Satellite Imagery
 
 ## Acknowledgments
-- The code utilized to train the model is adapted from Erfan Sobhaei's [Solar Panels Image Segmentation](https://www.kaggle.com/code/erfansobhaei/solar-panels-image-segmentation) notebook on Kaggle
+- The code used to train the model is adapted from Erfan Sobhaei's [Solar Panels Image Segmentation](https://www.kaggle.com/code/erfansobhaei/solar-panels-image-segmentation) notebook on Kaggle.
 
 ## Datasets Used
 - [PV03](https://www.kaggle.com/datasets/salimhammadi07/solar-panel-detection-and-identification)
@@ -16,3 +16,4 @@
 
 ### Model Execution
 - **`solar_panel_detection.ipynb`**: This notebook demonstrates how to utilize the trained model for solar panel detection.
+- **`bkk1_02.tif`** in the **example-images** folder can be used to showcase the model. You will need to change the file paths yourself.

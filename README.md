@@ -20,7 +20,7 @@
 
 ### Image and Mask Tiling
 - **`ImageTiling/ImageTiling.ipynb`**: This notebook explains how shapefile masks are converted to raster masks and paired with their corresponding GeoTIFF files. Both the raster images and masks are then tiled to create the dataset for training the model.
-- The example GeoTIFF file used in the notebook can be downloaded from [this link](https://drive.google.com/file/d/1jGJr4TNNiTTPQIOsirVG6sjBAH1vhqvW/view?usp=sharing).
+- The example GeoTIFF file used in the notebook can be downloaded from [this link](https://drive.google.com/file/d/1jGJr4TNNiTTPQIOsirVG6sjBAH1vhqvW/view?usp=sharing). Place this image in the **`ImageTiling/image_geotiff`** folder.
 
 
 ### Image Enhancement
